@@ -1,0 +1,6 @@
+{2}:Finally! I made it through the Labyrinth.
+{2}:Oh no! What's this ...
+Theseus:*Dead*
+{2}:No way! The Minotaur must have really killed Theseus!
+Minotaur:ROAR!!
+{2}:Guess I'm the one fighting the beast now ...

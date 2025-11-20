@@ -1,0 +1,14 @@
+Sphinx:WHAT! You solved my riddle!
+Sphinx:That is not possible ...
+Sphinx:I cannot exist without my riddle.
+Sphinx:You have defeated me.
+{2}:Thebes is saved!
+Creon:Thank you, kind stranger.
+Creon:You shall be crowned king. What is your name, foreigner?
+{2}:....
+{2}:I am Oedipus.
+Creon:Long live Oedipus Rex!
+{2}:Wow, this is great!
+{2}:I definitely won't do anything stupid now ...
+{2}:Or suffer any horrific tragedy ...
+{2}:Anyway, back to the time machine!

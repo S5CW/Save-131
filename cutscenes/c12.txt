@@ -1,0 +1,9 @@
+Zeus:Well done, child.
+Zeus:You have paid keen attention ...
+Zeus:Now go! Your work is done, Hermes shall alter history no longer.
+Zeus:I will send you back to your time.
+{2}:Wow ... that was really Zeus.
+{2}:And he just sent me all the way back home.
+{2}:I guess history is saved now!
+{2}:My midterm! I hope all this effort helped my grade.
+{2}:Time to go back to class ...

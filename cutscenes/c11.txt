@@ -1,0 +1,22 @@
+Hermes:Die, meddling mortal, and learn the consequence of Olympian might!
+{2}:Why? .... Why are you doing all this ...
+{2}:Surely Zeus cannot stand for such arrogance;
+{2}:You have slaughtered innocents throughout history!
+Hermes:You think the All-Mighty cares for about the deeds of Olympians?
+Hermes:Ha!   
+Hermes:Zeus bores on his throne; he couldn't care less about you mortals!
+{2}:...
+Zeus:And yet, son, I shall not have blood spilled on Olympian soil.
+Zeus:Apollo, heal this child!
+Apollo:*healing*
+Hermes:Father, {2} must die! They have challenged a god!
+{2}:Mighty Zeus, your son is changing the course of history!
+{2}:He even condemned his half-brother, Perseus, to death ...
+{2}:In the lair of Medusa.
+{2}:Please stop this terror!
+Zeus:This is true child, but I cannot fault Hermes ...
+Zeus:My son is treacherous by nature.
+Zeus:Still, I will grant your request, on one condition.
+Zeus:You must tell me the secret above all others ...
+Zeus:What is the SECRET TO LIFE?
+What is the SECRET TO LIFE?:

@@ -1,0 +1,8 @@
+{2}:One gorgon slain; one more myth saved!
+Hooded Stranger:Who is this mortal interfering with my trickery ...
+{2}:Hey! Who are you!
+Hooded Stranger:Who are you, {2}?
+Hooded Stranger:Far from your time, meddling with forces beyond mortal understanding.
+Hooded Stranger:Do not dare follow me, troublesome hero.
+Hooded Stranger:Lest reap the rewards of arrogant valiance.
+{2}:I have to find out where he is going ...

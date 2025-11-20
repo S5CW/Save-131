@@ -1,0 +1,9 @@
+Thebians:*screaming, running frantically*
+Sphinx:No man can solve my riddles!
+Sphinx:I will eat every last one who calls Thebes home.
+{2}:This can't go on ...
+{2}:What is your riddle, sphinx?
+Sphinx:You dare brave my test, foreigner?
+Sphinx:When your answer wanes, I will eat you too!
+Sphinx:What can you put in a bucket to make it weigh less?
+What makes a bucket weigh less?:

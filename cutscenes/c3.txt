@@ -1,0 +1,4 @@
+Bandit:You have killed me!
+Bandit:I am Laius and I curse you and your people!
+{2}:Why does that name sound familiar ...
+{2}:Anyway, let's make it to Thebes.           

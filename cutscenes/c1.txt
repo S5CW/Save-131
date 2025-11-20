@@ -1,0 +1,17 @@
+Prof. Lye:Who's ready to get midterms back, mythologists?
+{2}:I didn't really study, but I know a lot about Greek mythology.
+{2}:I hope the midterm went alright.
+Midterm: 3% - F                     
+{2}:No way, this can't be right.
+Prof. Lye:{2}, what happened? You seem to know nothing about the myths!
+Prof. Lye:Everyone knows that Achilles was killed by Hector.
+Prof. Lye:That's how the Trojans won the war!
+{2}:This doesn't seem right ...
+Prof. Lye:And who's this Oedipus you are talking about?
+Prof. Lye:The sphinx's riddle was impossible; Thebes was deserted forever!
+{2}:That's not what I remember ...
+Prof. Lye:There's no way you pass the class now!
+{2}:This can't be happening!
+{2}:I know! Someone has messed with ancient history.
+{2}:My trusty time machine could fix this. 
+{2}:If only I could make it back to my dorm ...
